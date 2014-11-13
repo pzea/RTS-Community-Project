@@ -1,3 +1,14 @@
+
+Pedro Zea
+Contribution to Community Real Time Strategy Game using Unreal Engine 4
+(https://github.com/ryanjon2040/RTS-Community-Project)
+
+Goals
+ - create art assets for the game
+ - create new units
+ - create some base gameplay mechanics for units
+
+
 Welcome to RTS Community Project
 =====================
 
